@@ -1,0 +1,30 @@
+<?php
+
+return [
+    'currency' => 'SAR',
+    'shopping_cart' => 'Shopping cart',
+    'complete_purchase' => 'Complete the purchase',
+    'total' => 'Total',
+    'about_site' => 'About the site',
+    'all_rights_reserved' => 'All rights reserved',
+    'follow_us' => 'Follow us',
+    'evaluation' => 'Evaluation',
+    'available_sizes' => 'Available sizes',
+    'add_to_cart' => 'Add to cart',
+    'product_description' => 'Product Description',
+    'the_store' => 'The Store',
+    'home' => 'Home',
+    'search' => 'Search ...',
+    'no_products_to_display' => 'There are no products to display',
+    'best_seller' => 'Best seller',
+    'product_has_been_added_to_cart' => 'The product has been added to the cart',
+    'product_is_in_the_cart' => 'The product is in the cart',
+    'purchase_info' => 'Buyer Information',
+    'name' => 'The name',
+    'phone' => 'Phone number',
+    'phone_2' => 'Additional phone number',
+    'address' => 'The address',
+    'submit_purchase' => 'Submit Request',
+    'no_items_in_cart' => 'There are no items in the cart',
+
+];
